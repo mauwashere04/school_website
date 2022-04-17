@@ -12,4 +12,7 @@
 ![screencapture-file-C-Users-moise-Documents-MAU-Lithan-Module-2-Mini-Projects-Mini-Project-2-Mini-Project-2-WDD-MM0420EFA01X-Antonio-Alforque-Mini-Project-2-Src-Project-enroll-html-202](https://user-images.githubusercontent.com/68614293/163718309-185a79bc-8c57-4c09-913e-82696ad667c5.png)
 
 ## Technologies
-HTML and CSS
+ *HTML
+ *CSS
+ *JavaScript
+
